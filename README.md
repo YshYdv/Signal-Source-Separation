@@ -2,10 +2,12 @@
 This repository contains the implementation of classical machine learning techniques for the task of signal and source separation in pop-culture music tracks.
 Audio signal source separation aims to extract individual signals from a composite mixture, driven by the desire to isolate specific sounds or voices for clearer analysis or enhanced listening experiences.
 
-| 	header1	 | 	header2	 | 	header3	 | 
+## Results
+### SNR Values
+| 	Song Name	 | 	Vocal	 | 	Background	 |
 | 	:-----:	 | 	:-----:	 | 	:-----:	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Don’t Let Go	| 	8.67	| 	5.15	 | 
+| 	Stella	| 	17.57	| 	2.53	 | 
+| 	If You Want Success	| 	8.14	| 	0.84	 | 
+| 	Femme	| 	15.92	| 	1.71	 | 
+| 	Haunted Age	| 	93.28	| 	1.84	 | 
